@@ -3,7 +3,7 @@ name: Validate Shell Script
 on:
   push:
     branches:
-      - main  # Se ejecutará solo cuando se haga un push a la rama principal (main)
+      - master  # Se ejecutará solo cuando se haga un push a la rama principal (main)
 
 jobs:
   shellcheck:

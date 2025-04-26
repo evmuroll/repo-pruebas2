@@ -1,5 +1,5 @@
 #!/bin/bash
-	echo 'Prueba error de sintaxis
+	echo 'Prueba error de sintaxis"
 
 
 

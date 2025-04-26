@@ -1,4 +1,4 @@
 #!/bin/bash
-echo 'Hola Mundo'
+echo 'Prueba error de sintaxis
 
 

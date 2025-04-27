@@ -1,5 +1,5 @@
 #!/bin/bash
-	echo 'Prueba error de sintaxis'
+	echo 'Hola desde repo-pruebas 2'
 
 
 

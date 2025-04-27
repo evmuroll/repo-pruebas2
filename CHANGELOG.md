@@ -9,7 +9,7 @@
 - Mejoras en el código
 
 ###Fixed
-- Coreecion de errores en la carga de datos
+- Correcion de errores en la carga de datos
 
 ##[v1.1] 2025-04-27
 ###Added
